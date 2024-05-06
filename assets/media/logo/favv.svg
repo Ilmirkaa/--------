@@ -1,0 +1,12 @@
+<svg width="210" height="134" viewBox="0 0 210 134" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M46.3522 133.906C46.3522 109.255 72.4851 89.2709 104.722 89.2709C136.958 89.2709 163.091 109.255 163.091 133.906" stroke="#4D5145" stroke-width="4"/>
+<line y1="131.906" x2="46.3522" y2="131.906" stroke="#4D5145" stroke-width="4"/>
+<line y1="-2" x2="56.4898" y2="-2" transform="matrix(0.86367 0.504058 -0.527462 0.849578 1.5177 89.7614)" stroke="#4D5145" stroke-width="4"/>
+<line y1="-2" x2="68.6784" y2="-2" transform="matrix(0.707159 0.707055 -0.728564 0.684978 15.177 54.4454)" stroke="#4D5145" stroke-width="4"/>
+<line y1="-2" x2="68.6784" y2="-2" transform="matrix(-0.707159 0.707055 0.728564 0.684978 194.266 54.4454)" stroke="#4D5145" stroke-width="4"/>
+<line y1="-2" x2="77.0225" y2="-2" transform="matrix(0.486102 0.873902 -0.886167 0.463366 47.0488 25.0155)" stroke="#4D5145" stroke-width="4"/>
+<line y1="-2" x2="77.0225" y2="-2" transform="matrix(-0.486102 0.873902 0.886167 0.463366 161.893 25.0155)" stroke="#4D5145" stroke-width="4"/>
+<line y1="-2" x2="56.4898" y2="-2" transform="matrix(-0.86367 0.504058 0.527462 0.849578 208.147 89.7614)" stroke="#4D5145" stroke-width="4"/>
+<line x1="106.722" y1="-1.59152e-08" x2="106.722" y2="89.2709" stroke="#4D5145" stroke-width="4"/>
+<line x1="163.091" y1="131.906" x2="209.443" y2="131.906" stroke="#4D5145" stroke-width="4"/>
+</svg>
